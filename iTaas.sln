@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iTaas", "iTaas\iTaas.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iTaas.Test", "iTaas.Test\iTaas.Test.csproj", "{A1CA54F8-4BD6-4180-9EFC-A6F94EECDA66}"
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{C1F53513-9DBF-46B2-B5E4-F6FABEFFB793}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{A1CA54F8-4BD6-4180-9EFC-A6F94EECDA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1CA54F8-4BD6-4180-9EFC-A6F94EECDA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1CA54F8-4BD6-4180-9EFC-A6F94EECDA66}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C1F53513-9DBF-46B2-B5E4-F6FABEFFB793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1F53513-9DBF-46B2-B5E4-F6FABEFFB793}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1F53513-9DBF-46B2-B5E4-F6FABEFFB793}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1F53513-9DBF-46B2-B5E4-F6FABEFFB793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
