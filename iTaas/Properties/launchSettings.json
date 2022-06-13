@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "iTaas": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
